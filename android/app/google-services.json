@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "189839201542",
+    "project_id": "semsdevop",
+    "storage_bucket": "semsdevop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189839201542:android:52c98ec1ca9d8fc74f3a87",
+        "android_client_info": {
+          "package_name": "com.sglabs.sems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189839201542-7u60hiklcp71922gatpqu4h1ocidt2b9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sglabs.sems",
+            "certificate_hash": "f47d4baae9eafa8783fa55a9c09f25e3e4d63b7c"
+          }
+        },
+        {
+          "client_id": "189839201542-8d5pkvuu7ds2mmhl1tcd5u1gcp8ipq33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiKA9JCjqxFifGAyrclNtOW0sEM-9CYgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189839201542-8d5pkvuu7ds2mmhl1tcd5u1gcp8ipq33.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "189839201542-pb59kpo53o28bi57l0n9q9n3cu1sdsbu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sglabs.sems"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

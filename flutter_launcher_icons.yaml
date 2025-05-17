@@ -1,0 +1,16 @@
+# flutter pub run flutter_launcher_icons
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo/sems.png"
+  adaptive_icon_background:  "assets/logo/sems.png"
+  adaptive_icon_foreground: "assets/logo/sems.png"
+  min_sdk_android: 21
+
+
+  web:
+    generate: true
+    image_path: "assets/icons/sems.png"
+    background_color: "#hexcode"
+    theme_color: "#hexcode"
+
